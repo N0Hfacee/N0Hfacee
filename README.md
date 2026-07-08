@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="N0Hfacee Banner" width="50%"/>
+<img src="banner2.png" alt="N0Hfacee Banner" width="100%"/>
 
 <br>
 
