@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner/banner.png" alt="N0Hfacee Banner" width="100%"/>
+<img src="banner.png" alt="N0Hfacee Banner" width="100%"/>
 
 <br>
 
 # N0Hfacee
 
-`Fullstack Developer` • `Linux Enthusiast`
+`Fullstack Developer` • `Linux Enthusiast` • `Human`
 
 > *Don't like me. Just follow my works.*
 
@@ -20,7 +20,6 @@
 
 ```txt
 Name        :: N0Hfacee
-Status      :: Online
 Role        :: Fullstack Developer
 Focus       :: Open Source
 Condition   :: Relentless
@@ -34,9 +33,7 @@ I build software that deserves to exist.
 
 Learning never belongs to one person.
 
-From community.
-
-To community.
+From community. To community.
 
 > **Jesus is King.**
 
@@ -164,12 +161,10 @@ Not useful repositories.
 
 <div align="center">
 
-Transmission End.
+`Transmission End`
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-N0Hfacee
-
-2026
+N0Hfacee • 2026
 
 </div>
