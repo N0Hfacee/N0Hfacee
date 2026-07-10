@@ -2,13 +2,13 @@
 
 <img src="banner2.png" alt="N0Hfacee Banner" width="100%"/>
 
+<br><br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=System+Initializing...;Welcome+to+N0Hfacee's+Terminal;Fullstack+Developer+|+Linux+Enthusiast;I+build+software+that+deserves+to+exist." alt="Typing SVG" /></a>
+
 <br>
 
-# N0Hfacee
-
-`Fullstack Developer` • `Linux Enthusiast` • `Human`
-
-> *Don't like me. Just follow my works.*
+*“Don't like me. Just follow my works.”*
 
 <br>
 
@@ -16,155 +16,101 @@
 
 ---
 
-## Identity
+### ⚡ `~/whoami`
 
-```txt
+```console
+n0hfacee@local:~$ cat identity.txt
 Name        :: N0Hfacee
 Role        :: Fullstack Developer
 Focus       :: Open Source
 Condition   :: Relentless
+Belief      :: Jesus is King.
+
+n0hfacee@local:~$ cat mission.md
+> Build useful software. Not just useful repositories.
+> Learning never belongs to one person.
+> From community. To community.
 ```
 
 ---
 
-## Who Am I
+### 💻 `~/tech-stack`
 
-I build software that deserves to exist.
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,bash,linux,git&perline=6" />
+</div>
+</details>
 
-Learning never belongs to one person.
+<details open>
+<summary><b>Tools & Database</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=neovim,vim,vscode,mysql,github&perline=5" />
+</div>
+</details>
 
-From community. To community.
-
-> **Jesus is King.**
-
----
-
-## Current Stack
-
-<table>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,bash,linux,git" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=neovim,vim,vscode,mysql" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-</td>
-
-</tr>
-
-</table>
+<details>
+<summary><b>Currently Learning 🚧</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,django" />
+</div>
+</details>
 
 ---
 
-## Currently Learning
-
-```txt
-Rust
-
-Django
-```
-
----
-
-## Featured Work
-
-### Python Terminal User Interface
-
-> Started as a simple experiment.
-
-> Turned into a project maintained for more than two years.
-
-Still improving.
-
-Still learning.
-
----
-
-## Interests
-
-```txt
-Monster Hunter
-
-Creative Sandbox
-
-Math Rock
-
-Looking for Zinogre Tail...
-```
-
----
-
-## Philosophy
-
-```txt
-Living Buddha.
-
-Make something useful.
-
-Open source isn't about free software.
-
-It's about shared knowledge.
-```
-
----
-
-## Statistics
+### 📊 `~/statistics`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=N0Hfacee&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0Hfacee&layout=compact&hide_border=true&theme=transparent"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=N0Hfacee&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0Hfacee&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000"/>
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=N0Hfacee&theme=transparent&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=N0Hfacee&theme=tokyonight&hide_border=true&background=00000000"/>
 </div>
 
 ---
 
-## Mission
+### 🏆 `~/featured-work`
 
-```
-Build useful software.
-
-Not useful repositories.
-```
+> **Python Terminal User Interface**  
+> Started as a simple experiment.  
+> Turned into a project maintained for more than two years.  
+> *Still improving. Still learning.*
 
 ---
 
+### 🎮 `~/interests`
+
+- 🐉 **Monster Hunter** *(Looking for Zinogre Tail...)*
+- 🧩 **Creative Sandbox**
+- 🎸 **Math Rock**
+
+---
+
+### 🧠 `~/philosophy`
+
+```txt
+Living Buddha.
+Make something useful.
+Open source isn't about free software.
+It's about shared knowledge.
+```
+
+<br><br>
+
 <div align="center">
 
-`Transmission End`
+`[ Transmission End ]`
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-N0Hfacee • 2026
+**N0Hfacee • 2026**
 
 </div>
