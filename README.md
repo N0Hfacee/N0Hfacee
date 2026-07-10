@@ -12,6 +12,9 @@
 
 <br>
 
+<!-- Visitor Badge dengan warna merah senada -->
+<img src="https://komarev.com/ghpvc/?username=N0Hfacee&color=FE0000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
 
 ---
@@ -65,14 +68,14 @@ n0hfacee@local:~$ cat mission.md
 ### 📊 `~/statistics`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=N0Hfacee&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0Hfacee&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=N0Hfacee&show_icons=true&hide_border=true&title_color=FE0000&icon_color=FE0000&text_color=FFFFFF&bg_color=0D1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0Hfacee&layout=compact&hide_border=true&title_color=FE0000&text_color=FFFFFF&bg_color=0D1117"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=N0Hfacee&theme=tokyonight&hide_border=true&background=00000000"/>
+  <img src="https://streak-stats.demolab.com?user=N0Hfacee&hide_border=true&background=0D1117&fire=FE0000&ring=FE0000&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=a0a0a0&dates=a0a0a0"/>
 </div>
 
 ---
